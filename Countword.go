@@ -52,5 +52,3 @@ func reportResults(count map[string]int) {
 		fmt.Printf("%s : %d\n", key, value)
 	}
 }
-
-// Referred ChatGPT to implement the code marked with ** //
